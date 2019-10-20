@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\bin\Debug\4_6_Solution-Stack.exe.config
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\bin\Debug\4_6_Solution-Stack.exe
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\bin\Debug\4_6_Solution-Stack.pdb
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\obj\Debug\4_6_Solution-Stack.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\obj\Debug\4_6_Solution-Stack.exe
+D:\[OOP] - Object Oriented Programming\Test\4_6_Solution-Stack\4_6_Solution-Stack\obj\Debug\4_6_Solution-Stack.pdb
